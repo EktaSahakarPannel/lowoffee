@@ -12,7 +12,7 @@ git commit -m "'$1'"
 
 git pull origin master
 
-chmod -R 777 ../test_demo/
-chown -R www-data:www-data ../test_demo/
+chmod -R 777 ../lowoffee/
+chown -R www-data:www-data ../lowoffee/
 
 git push
